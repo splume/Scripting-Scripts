@@ -10,7 +10,7 @@
 
 本版改用 Scripting 的 WebViewController 和 Storage，适配触屏界面与游戏逻辑。
 
-玩法敬 Gabriele Cirulli 的2048。项目说明玩法受 Asher Vollmer 的 Threes 启发。
+玩法敬 Gabriele Cirulli 的2048。玩法受 Asher Vollmer 的 Threes 启发。
 
 
 ## 鸣谢
