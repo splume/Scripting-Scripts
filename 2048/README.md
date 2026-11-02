@@ -3,13 +3,10 @@
 玩法：经典 2048 数字合并游戏，适配 Scripting 离线运行环境。支持触屏滑动、方向按钮、自动保存、最高分记录和撤销一步。
 
 参考所提供的 scripting 版本适配。
-@yuyuan
 
 ## 来源与适配说明
 
-原链接：https://xteko.com/install?id=89&lang=zh-Hans
-源代码包：https://github.com/cyanzhong/xTeko/raw/master/extension-scripts/2048.box
 
-原脚本使用 JSBox 专属 $objc / $define 和 SpriteKit，不能直接在 Scripting 中运行。本版改用 Scripting 的 WebViewController 和 Storage，重写触屏界面与游戏逻辑，不再依赖 JSBox。
+本版改用 Scripting 的 WebViewController 和 Storage，适配触屏界面与游戏逻辑。
 
-玩法敬 Gabriele Cirulli 的2048；参考所提供的 scripting 版本适配。原项目说明提及玩法受 Asher Vollmer 的 Threes 启发。原包 README 保留在 ORIGINAL-README.md；音效取自所提供原包，原有权利归原权利人。
+玩法敬 Gabriele Cirulli 的2048。原项目说明提及玩法受 Asher Vollmer 的 Threes 启发。原包 README 保留在 ORIGINAL-README.md；音效取自所提供原包，原有权利归原权利人。
