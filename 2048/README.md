@@ -9,4 +9,8 @@
 
 本版改用 Scripting 的 WebViewController 和 Storage，适配触屏界面与游戏逻辑。
 
-玩法敬 Gabriele Cirulli 的2048。原项目说明提及玩法受 Asher Vollmer 的 Threes 启发。原包 README 保留在 ORIGINAL-README.md；音效取自所提供原包，原有权利归原权利人。
+
+
+# Credits
+
+2048 by [Gabriele Cirulli](http://gabrielecirulli.com/). The original game can be found at http://gabrielecirulli.github.io/2048/, as can all relevant attributions. 2048 is inspired by an iOS game called "Threes", by Asher Vollmer.
