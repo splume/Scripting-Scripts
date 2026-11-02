@@ -9,7 +9,7 @@
 <div id="board" role="group" aria-label="2048棋盘"><div id="overlay" hidden><h2 id="message"></h2><p id="detail"></p><div class="dialog-actions"><button id="cancel">继续</button><button id="confirm">重新开始</button></div></div></div>
 <div class="directions"><button data-dir="left" aria-label="向左">←</button><button data-dir="up" aria-label="向上">↑</button><button data-dir="down" aria-label="向下">↓</button><button data-dir="right" aria-label="向右">→</button></div>
 <p id="status" aria-live="polite">正在读取存档…</p>
-<footer>离线运行 · 自动保存进度<br>玩法敬 Gabriele Cirulli 的2048；参考所提供的 scripting 版本适配。</footer>
+<footer>离线运行 · 自动保存进度<br>参考所提供的 scripting 版本适配。<br>@yuyuan</footer>
 </main><script src="game.js"></script><script>
 const $=id=>document.getElementById(id), E=Game2048;
 let state={board:Array(16).fill(0),score:0,best:0,won:false,sound:false}, previous=null, mode='', ready=false;
