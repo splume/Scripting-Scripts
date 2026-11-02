@@ -1,0 +1,18 @@
+{
+  "name": "2048",
+  "icon": "square.grid.2x2.fill",
+  "color": "#F99556",
+  "version": "1.0.0",
+  "runInApp": false,
+  "entry": "index.tsx",
+  "localizedNames": {"zh": "2048", "en": "2048"},
+  "author": null,
+  "contributors": [],
+  "remoteDefinitionId": null,
+  "remoteResource": null,
+  "iconImage": null,
+  "permissions": null,
+  "intentInputTypes": [],
+  "description": "Offline 2048 game adapted for Scripting from the linked JSBox example.",
+  "localizedDescriptions": {"zh-Hans": "经典2048：滑动合并、音效、自动存档、最高分和撤销一步。"}
+}
