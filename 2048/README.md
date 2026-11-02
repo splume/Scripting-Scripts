@@ -11,6 +11,6 @@
 
 
 
-# Credits
+## 鸣谢
 
 2048 by [Gabriele Cirulli](http://gabrielecirulli.com/). The original game can be found at http://gabrielecirulli.github.io/2048/, as can all relevant attributions. 2048 is inspired by an iOS game called "Threes", by Asher Vollmer.
