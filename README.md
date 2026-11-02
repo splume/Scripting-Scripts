@@ -43,4 +43,3 @@ Scripting-Scripts/
 
 各脚本的来源、适配说明和相关致谢请参阅对应目录中的 README。2048 项目页面标注了原作及参考来源。
 
-Scripting 适配：@yuyuan
