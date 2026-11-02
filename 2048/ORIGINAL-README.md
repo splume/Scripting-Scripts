@@ -1,12 +1,9 @@
-> [Download link](https://xteko.com/redir?url=https://github.com/cyanzhong/xTeko/raw/master/extension-scripts/%242048.box)
 
 # What's this?
 
 Is this a game based on SpriteKit?
 
-Yes and No, this is an example that shows you how to use Objective-C [Runtime](https://docs.xteko.com/#/en/runtime/intro).
-
-Runtime system provided by JSBox is very powerful, we can do many things.
+Yes and No, this is an example that shows you how to use Objective-C.
 
 In this project, we want to show you how to:
 
