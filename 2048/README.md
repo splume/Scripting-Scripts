@@ -10,4 +10,8 @@
 
 本版改用 Scripting 的 WebViewController 和 Storage，适配触屏界面与游戏逻辑。
 
-玩法敬 Gabriele Cirulli 的2048；参考所提供的 scripting 版本适配。原项目说明提及玩法受 Asher Vollmer 的 Threes 启发。原包 README 保留在 ORIGINAL-README.md；音效取自所提供原包，原有权利归原权利人。
+玩法敬 Gabriele Cirulli 的2048。项目说明玩法受 Asher Vollmer 的 Threes 启发。
+
+
+## 鸣谢
+http://gabrielecirulli.github.io/2048/
